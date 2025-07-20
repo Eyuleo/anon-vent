@@ -35,4 +35,4 @@ Anon Vent is a simple and anonymous platform for users to share their thoughts a
 
 # Live demo
 
-Anon vent[https://anon-vent.pages.dev/]
+[https://anon-vent.pages.dev/](https://anon-vent.pages.dev/)
