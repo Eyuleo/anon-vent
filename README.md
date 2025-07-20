@@ -2,7 +2,7 @@
 
 ## Description
 
-Anon Vent is a simple and anonymous platform for users to share their thoughts and opinions. Users can post short messages (vents), upvote or downvote others' vents, and interact in a supportive, judgment-free environment. The app is built with React, TypeScript, and Vite for a fast and modern user experience.
+Anon Vent is a simple and anonymous platform for users to share their thoughts and opinions. Users can post short messages (vents), upvote or downvote others' vents. The app is built with React, TypeScript, and Vite for a fast and modern user experience.
 
 ## Setup Instructions
 
